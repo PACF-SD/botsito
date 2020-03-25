@@ -6,7 +6,7 @@ Songs = {
 	"shuffle" => [
 		"Song Title.mp3",
 	],
-	"users name" => []
+	"The Senate#0137" => ["pablo.mp3"]
 }
 
 # ::RBNACL_LIBSODIUM_GEM_LIB_PATH = "C:/libsodium.dll"
